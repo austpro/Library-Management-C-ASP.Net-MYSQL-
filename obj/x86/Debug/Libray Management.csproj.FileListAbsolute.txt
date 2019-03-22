@@ -1,0 +1,21 @@
+D:\Libray Management\Libray Management\bin\Debug\Libray Management.exe
+D:\Libray Management\Libray Management\bin\Debug\Libray Management.pdb
+D:\Libray Management\Libray Management\obj\x86\Debug\Libray_Management.login.resources
+D:\Libray Management\Libray Management\obj\x86\Debug\Libray_Management.Properties.Resources.resources
+D:\Libray Management\Libray Management\obj\x86\Debug\Libray Management.csproj.GenerateResource.Cache
+D:\Libray Management\Libray Management\obj\x86\Debug\Libray Management.exe
+D:\Libray Management\Libray Management\obj\x86\Debug\Libray Management.pdb
+D:\Libray Management\Libray Management\obj\x86\Debug\Libray_Management.mdi_user.resources
+D:\Libray Management\Libray Management\obj\x86\Debug\Libray Management.csprojResolveAssemblyReference.cache
+D:\Libray Management\Libray Management\obj\x86\Debug\Libray_Management.add_books.resources
+D:\Libray Management\Libray Management\obj\x86\Debug\Libray_Management.view_books.resources
+D:\Libray Management\Libray Management\obj\x86\Debug\Libray_Management.add_student_info.resources
+D:\Libray Management\Libray Management\obj\x86\Debug\Libray_Management.view_student_info.resources
+D:\Libray Management\Libray Management\obj\x86\Debug\Libray_Management.issue_books.resources
+D:\Libray Management\Libray Management\obj\x86\Debug\Libray_Management.return_books.resources
+D:\Libray Management\Libray Management\obj\x86\Debug\Libray_Management.books_stock.resources
+D:\Libray Management\Libray Management\bin\Debug\Libray Management.exe.config
+D:\Libray Management\Libray Management\obj\x86\Debug\Libray_Management.report_books_remain_retain.resources
+D:\Libray Management\Libray Management\obj\x86\Debug\Libray_Management.Register.resources
+D:\Libray Management\Libray Management\obj\x86\Debug\Libray_Management.Welcomee.resources
+D:\Libray Management\Libray Management\obj\x86\Debug\Libray_Management.hello.resources
